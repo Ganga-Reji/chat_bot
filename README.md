@@ -9,8 +9,7 @@ DjangoChatBotXperience is a state-of-the-art project designed to seamlessly inte
   - [Installation](#installation)
   - [Customization](#customization)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Key Features
 
@@ -69,10 +68,4 @@ DjangoChatBotXperience is a state-of-the-art project designed to seamlessly inte
 
 2. Access the chatbot interface on your web application and begin exploring the enhanced user experience.
 
-## Contributing
 
-We welcome contributions to DjangoChatBotXperience! Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-DjangoChatBotXperience is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
